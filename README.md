@@ -16,3 +16,6 @@ const greeting = "Soy un mal ejemplo";
 ```js hidden
 const greeting = "Soy un saludo secreto";
 ```
+Para añadir una nota, crea una cita en bloque de GFM cuyo primer párrafo comience con nota
+Para añadir una advertencia, crea una cita en bloque de GFM cuyo primer párrafo comience con advertencia 
+
